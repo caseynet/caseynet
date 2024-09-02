@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CaseyNet</title>
+    <link>http://localhost:1313/docs/youth-hockey/</link>
+    <description>Recent content on CaseyNet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/youth-hockey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coaching Tips &amp; Tricks</title>
+      <link>http://localhost:1313/docs/youth-hockey/hockey-coaching/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/docs/youth-hockey/hockey-coaching/</guid>
+      <description>Hockey Coaching Tips &amp;amp; Tricks # Coaching youth hockey is a rewarding experience, but it comes with a lot of &amp;ldquo;to do&amp;rdquo; items and other things coaches much remember. This is a collection of my learning for my own memory, but also so it might be useful for other newbies.&#xA;Yearly Requirements # Coaching credentials must be kept up-to-date, but not every item is required yearly.</description>
+    </item>
+    <item>
+      <title>USA Hockey Registration</title>
+      <link>http://localhost:1313/docs/youth-hockey/usa-hockey-registration/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/docs/youth-hockey/usa-hockey-registration/</guid>
+      <description>USA Hockey Registration # USA Hockey registration is a cumbersome, sometimes confusing mess. This is a a quick doc to help address some of the more confusing parts of the process each year.</description>
+    </item>
+  </channel>
+</rss>
