@@ -13,7 +13,7 @@
       <link>http://localhost:1313/docs/model-aircraft/battery-technology/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/docs/model-aircraft/battery-technology/</guid>
-      <description>Model Aircraft Battery Technology # This will be a page about batteries and some of my own learning over the past several months.</description>
+      <description>Model Aircraft Battery Technology # This will be a page about batteries and some of my own learning over the past several months.&#xA;Chargers # A section dedicated to chargers.</description>
     </item>
     <item>
       <title>Coaching Tips &amp; Tricks</title>
@@ -27,14 +27,14 @@
       <link>http://localhost:1313/docs/link-list/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/docs/link-list/</guid>
-      <description> My Favorite Tools &amp;amp; Links # Here are a few apps and other useful links I use regularly.&#xA;Aviation # FlightRadar24 - Flight tracking app/website Aviation Weather - NWS aviation weather data Web Design &amp;amp; Code # Hugo - Static site generator Visual Studio Code - Open-source text editor/coding environment </description>
+      <description> My Favorite Tools &amp;amp; Links # Here are a few apps and other useful links I use regularly.&#xA;Aviation # FlightRadar24 - Flight tracking app/website Aviation Weather - NWS aviation weather data Hockey # USA Hockey - The one and only Web Design &amp;amp; Code # Hugo - Static site generator Visual Studio Code - Open-source text editor/coding environment </description>
     </item>
     <item>
       <title>USA Hockey Registration</title>
       <link>http://localhost:1313/docs/youth-hockey/usa-hockey-registration/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/docs/youth-hockey/usa-hockey-registration/</guid>
-      <description>USA Hockey Registration # USA Hockey registration is a cumbersome, sometimes confusing mess. This is a a quick doc to help address some of the more confusing parts of the process each year.</description>
+      <description>USA Hockey Registration # USA Hockey registration is a cumbersome, sometimes confusing mess. This is a a quick doc to help address some of the more confusing parts of the process each year.&#xA;This is an edit for the page.</description>
     </item>
   </channel>
 </rss>
