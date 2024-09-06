@@ -9,4 +9,8 @@ draft = false
 
 ### Yearly Registration Process
 
-Each year, a new USA Hockey number must be obtained. This is regardless of last year's status. To do so, visit the [USA Hockey](http://www.usahockey.com) website and complete the required steps. *Important: Your previous SafeSport trainings and status will be transfered to your new profile.*
+Each year, a new USA Hockey number must be obtained. This is regardless of last year's status. To do so, visit the [USA Hockey](http://www.usahockey.com) website and complete the required steps. 
+
+*Important: Your previous SafeSport trainings and status will be transfered to your new profile.*
+
+Everyone in your family (that has a USA Hockey profile) must start over with registration each season. While confusing, it seems that is how they know who is up-to-date for each year's rosters.

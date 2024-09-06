@@ -1,7 +1,7 @@
 +++
 title = 'Coaching Tips & Tricks'
 date = 2024-01-14T07:07:07+01:00
-draft = true
+draft = false
 +++
 
 ## Hockey Coaching Tips & Tricks
@@ -12,3 +12,7 @@ Coaching youth hockey is a rewarding experience, but it comes with a lot of "to 
 ### Yearly Requirements
 
 Coaching credentials must be kept up-to-date, but not every item is required yearly. 
+
+1. Complete your yearly USA Hockey registration and obtain the confirmation number.
+2. Complete your background check if necessary (every two years).
+3. Complete any additional CEP training courses and/or age modules by Dec. 31 of that calendar year.
