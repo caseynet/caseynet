@@ -16,3 +16,8 @@ Coaching credentials must be kept up-to-date, but not every item is required yea
 1. Complete your yearly USA Hockey registration and obtain the confirmation number.
 2. Complete your background check if necessary (every two years).
 3. Complete any additional CEP training courses and/or age modules by Dec. 31 of that calendar year.
+
+### Quick Links & Resources
+
+1. [USA Hockey Course Search](https://coursesearch.usahockey.com)
+2. [USA Hockey Number Lookup](https://membership.usahockey.com/duplicate-confirmation)
