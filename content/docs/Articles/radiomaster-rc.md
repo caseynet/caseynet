@@ -3,6 +3,9 @@ title = 'Radiomaster RC'
 date = 2024-01-14T07:07:07+01:00
 draft = false
 +++
+
+# My Radiomaster Experience
+
 At the suggestion of my local flying club, I pursued the [Radiomaster](https://www.radiomasterrc.com) brand of transmitter for my new-found hobby. In fairness, many of them are all retired and have plenty of time to tinker. 
 
 On the surface, the idea of the [Radiomaster TX16S](https://www.radiomasterrc.com/products/tx16s-mark-ii-radio-controller?variant=42817679655143) (my chosen model) seemed great. An open-source operating system, [EdgeTX](http://www.edgetx.org), provides compatibility with various protocols and receiver types used in the industry. The hardware is affordable and generally well-reviewed. 
